@@ -2,6 +2,8 @@
 
 ##Testing the simulation environment
 
+AAA
+
 1)Launch the gazebo simulation:
 ``` roslaunch youbot_gazebo_robot youbot.launch  ```
 
