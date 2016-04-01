@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+
+ 
+  <node pkg="picksie_demo" type="move_group_python_interface_tutorial.py" name="move_group_python_interface_tutorial" />
+   
+  
+</launch>
